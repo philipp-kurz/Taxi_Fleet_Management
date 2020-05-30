@@ -1,7 +1,7 @@
 # Taxi_Fleet_Management
 
 "Taxi Fleet Management" is a command line program that simulates a the management of a taxi (or Uber?) fleet.
-The project is implemented entirely in C++ and was written from scratch.
+The project is implemented entirely in C++ and was written from scratch using Visual Studio.
 
 It served as a final project for the class "Object-Orientedn Software Engineering" at Esslingen University during Spring 2018 semester, and reinforced object orientation using C++. 
 
